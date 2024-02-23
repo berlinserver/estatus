@@ -76,17 +76,19 @@
     "url": "http://web.ula.ve/dap/",
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2859,
     "timeDay": 2859,
     "timeWeek": 2859,
     "timeMonth": 2859,
     "timeYear": 2859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   }
 ]
