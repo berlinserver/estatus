@@ -76,18 +76,19 @@
     "url": "http://web.ula.ve/dap/",
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 3564,
-    "timeDay": 2829,
+    "timeDay": 2470,
     "timeWeek": 3564,
     "timeMonth": 3564,
     "timeYear": 3564,
     "dailyMinutesDown": {
+      "2024-02-27": 2,
       "2024-02-24": 50,
       "2024-02-23": 43
     }
@@ -97,53 +98,59 @@
     "url": "http://uladap.adm.ula.ve/sidap/pdi",
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap-profesores",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 5151,
     "timeDay": 5151,
     "timeWeek": 5151,
     "timeMonth": 5151,
     "timeYear": 5151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 1
+    }
   },
   {
     "name": "SIDAP",
     "url": "http://uladap.adm.ula.ve/sidap/",
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 361,
     "timeDay": 361,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 1
+    }
   },
   {
     "name": "SIDAP RED",
     "url": "http://190.168.72.22/sidap/",
     "icon": "https://icons.duckduckgo.com/ip3/190.168.72.22.ico",
     "slug": "sidap-red",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   }
 ]
