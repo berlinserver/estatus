@@ -51,6 +51,12 @@ i18n:
   incidentClosedAt: Incidente Finalizado
   incidentViewOnGitHub: Ver detalle
   incidentCommentSummary: Actualizado al $DATE por $AUTHOR
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Tiempo en linea
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de Respuesta (ms)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
