@@ -57,6 +57,7 @@ i18n:
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de Respuesta (ms)
+  pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS posts
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
