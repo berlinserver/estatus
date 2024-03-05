@@ -29,6 +29,28 @@ status-website:
       href: /
     - title: Source
       href: https://github.com/$OWNER/$REPO
+i18n:
+    activeIncidents: Incidentes activos
+    footer: Hola esta website es propiedad de [DAP-ULA-VE](http://web.ula.ve/dap/), creada y monitoreada por [Unidad Operativa de Sistemas de Informacion](http://web.ula.ve/dap/)
+    liveStatus: Estado de los Sistemas en VIVO
+    up: Funcionando (OK)
+    down: Caida (Error)
+    degraded: Lentitud (Alerta)
+    duration24H: 24h
+    duration7D: 7d
+    duration30D: 30d
+    duration1Y: 1a
+    durationAll: Todo
+    pastIncidents: Incidentes pasados
+    incidentBack: ← Regresar a todos los Incidentes
+    allSystemsOperational: Todos los Sistemas están Funcionando Correctamente
+    incidentReport: "Incidente #$NUMBER reporte →"
+    incidentFixed: Fixed
+    incidentOngoing: Incidente en Curso
+    incidentOpenedAt: Incidente Iniciado
+    incidentClosedAt: Incidente Finalizado
+    incidentViewOnGitHub: Ver detalle
+    incidentCommentSummary: Actualizado al $DATE por $AUTHOR
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
