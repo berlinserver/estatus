@@ -52,7 +52,7 @@ i18n:
   incidentViewOnGitHub: Ver detalle
   incidentCommentSummary: Actualizado al $DATE por $AUTHOR
   overallUptime: "Tiempo en linea: $UPTIME"
-  overallUptimeTitle: Tiempo en linea
+  overallUptimeTitle: Tiempo en linea (%)
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta de 7 días
