@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **Todos los Sistemas están Funcionando Correctamente**
+# [📈 Live Status](https://berlinserver.github.io/): <!--live status--> **Todos los Sistemas están Funcionando Correctamente**
 
 This repository contains the open-source uptime monitor and status page for [berlinserver](https://berlinserver.github.io/)
 
