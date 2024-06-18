@@ -13,6 +13,8 @@ sites:
     url: http://uladap.adm.ula.ve/sidap/
   - name: SIDAP RED
     url: http://190.168.72.22/sidap/
+  - name: WEB PRINCIPAL DAP
+    url: https://dap.ula.ve
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
