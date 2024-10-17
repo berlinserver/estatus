@@ -1,7 +1,7 @@
 url: http://uladap.adm.ula.ve/sidap/pdi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-17T13:34:45.488Z
+status: up
+code: 200
+responseTime: 4065
+lastUpdated: 2024-10-17T13:43:53.615Z
 startTime: 2024-02-27T13:51:16.201Z
 generator: Upptime <https://github.com/upptime/upptime>
