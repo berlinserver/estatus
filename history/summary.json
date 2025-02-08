@@ -24,11 +24,11 @@
     "url": "http://web.ula.ve/dap/",
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
-    "status": "up",
+    "status": "down",
     "uptime": "93.22%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "93.22%",
     "time": 1831,
     "timeDay": 744,
@@ -36,7 +36,7 @@
     "timeMonth": 1978,
     "timeYear": 1831,
     "dailyMinutesDown": {
-      "2025-02-08": 16,
+      "2025-02-08": 18,
       "2025-02-06": 599,
       "2025-02-05": 21,
       "2025-01-31": 683,
@@ -131,8 +131,7 @@
       "2024-08-28": 43,
       "2024-08-27": 19,
       "2024-08-20": 16,
-      "2024-08-18": 114,
-      "2024-08-14": 20
+      "2024-08-18": 114
     }
   },
   {
@@ -140,19 +139,19 @@
     "url": "http://uladap.adm.ula.ve/sidap/pdi",
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap-profesores",
-    "status": "up",
-    "uptime": "88.38%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "88.38%",
+    "status": "down",
+    "uptime": "88.39%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "88.61%",
+    "uptimeYear": "88.39%",
     "time": 1171,
     "timeDay": 512,
     "timeWeek": 2446,
     "timeMonth": 1564,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2025-02-08": 16,
+      "2025-02-08": 17,
       "2025-02-06": 599,
       "2025-02-05": 56,
       "2025-01-31": 683,
@@ -266,8 +265,7 @@
       "2024-05-02": 495,
       "2024-05-01": 21,
       "2024-04-27": 43,
-      "2024-04-26": 91,
-      "2024-04-16": 36
+      "2024-04-26": 91
     }
   },
   {
@@ -275,19 +273,19 @@
     "url": "http://uladap.adm.ula.ve/sidap/",
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap",
-    "status": "up",
-    "uptime": "88.28%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "88.72%",
-    "uptimeYear": "88.28%",
+    "status": "down",
+    "uptime": "88.33%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "88.71%",
+    "uptimeYear": "88.33%",
     "time": 143,
     "timeDay": 92,
     "timeWeek": 100,
     "timeMonth": 167,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-02-08": 15,
+      "2025-02-08": 16,
       "2025-02-06": 598,
       "2025-02-05": 35,
       "2025-01-31": 682,
@@ -401,8 +399,7 @@
       "2024-04-11": 23,
       "2024-04-10": 54,
       "2024-04-09": 69,
-      "2024-04-02": 328,
-      "2024-04-01": 217
+      "2024-04-02": 328
     }
   },
   {
@@ -543,9 +540,9 @@
     "url": "https://dap.ula.ve",
     "icon": "https://icons.duckduckgo.com/ip3/dap.ula.ve.ico",
     "slug": "web-principal-dap",
-    "status": "up",
+    "status": "down",
     "uptime": "79.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "93.88%",
     "uptimeMonth": "89.04%",
     "uptimeYear": "79.12%",
@@ -555,6 +552,7 @@
     "timeMonth": 2337,
     "timeYear": 1682,
     "dailyMinutesDown": {
+      "2025-02-08": 0,
       "2025-02-06": 597,
       "2025-02-05": 20,
       "2025-01-31": 682,
