@@ -1,7 +1,7 @@
 url: http://uladap.adm.ula.ve/sidap/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-14T17:15:54.217Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2025-02-14T17:28:37.274Z
 startTime: 2024-02-27T13:51:26.408Z
 generator: Upptime <https://github.com/upptime/upptime>
