@@ -15,6 +15,10 @@ sites:
     url: http://190.168.72.22/sidap/
   - name: WEB PRINCIPAL DAP
     url: https://dap.ula.ve
+  - name: DAP INTERNACIONAL EEUU
+    url: https://dapenlinea.ula.ve
+  - name: ENLACE EXTERNO DAP
+    url: http://sistemasdap.ula.ve/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
