@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
-    "time": 137,
-    "timeDay": 106,
-    "timeWeek": 273,
+    "time": 136,
+    "timeDay": 72,
+    "timeWeek": 270,
     "timeMonth": 211,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "87.66%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "97.42%",
+    "uptime": "98.63%",
+    "uptimeDay": "85.07%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "97.37%",
     "time": 1869,
-    "timeDay": 787,
-    "timeWeek": 1089,
-    "timeMonth": 1035,
-    "timeYear": 1925,
+    "timeDay": 0,
+    "timeWeek": 1131,
+    "timeMonth": 1046,
+    "timeYear": 1926,
     "dailyMinutesDown": {
-      "2026-01-21": 1,
+      "2026-01-22": 89,
+      "2026-01-21": 127,
       "2026-01-20": 61,
       "2026-01-19": 26,
       "2026-01-16": 676,
@@ -141,11 +142,11 @@
     "uptimeWeek": "96.19%",
     "uptimeMonth": "90.02%",
     "uptimeYear": "91.58%",
-    "time": 1170,
-    "timeDay": 952,
-    "timeWeek": 927,
-    "timeMonth": 1054,
-    "timeYear": 1231,
+    "time": 1175,
+    "timeDay": 3961,
+    "timeWeek": 1249,
+    "timeMonth": 1160,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2026-01-20": 32,
       "2026-01-19": 352,
@@ -244,8 +245,7 @@
       "2025-01-31": 683,
       "2025-01-29": 125,
       "2025-01-24": 59,
-      "2025-01-23": 70,
-      "2025-01-22": 112
+      "2025-01-23": 70
     }
   },
   {
@@ -260,10 +260,10 @@
     "uptimeMonth": "90.03%",
     "uptimeYear": "91.62%",
     "time": 138,
-    "timeDay": 114,
-    "timeWeek": 96,
+    "timeDay": 81,
+    "timeWeek": 97,
     "timeMonth": 96,
-    "timeYear": 130,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2026-01-20": 32,
       "2026-01-19": 351,
@@ -357,8 +357,7 @@
       "2025-01-31": 682,
       "2025-01-29": 125,
       "2025-01-24": 59,
-      "2025-01-23": 68,
-      "2025-01-22": 111
+      "2025-01-23": 68
     }
   },
   {
@@ -373,8 +372,8 @@
     "uptimeMonth": "90.04%",
     "uptimeYear": "92.12%",
     "time": 252,
-    "timeDay": 221,
-    "timeWeek": 193,
+    "timeDay": 162,
+    "timeWeek": 194,
     "timeMonth": 201,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -462,8 +461,7 @@
       "2025-02-05": 34,
       "2025-01-29": 124,
       "2025-01-24": 52,
-      "2025-01-23": 67,
-      "2025-01-22": 89
+      "2025-01-23": 67
     }
   },
   {
@@ -477,10 +475,10 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "91.05%",
     "uptimeYear": "94.29%",
-    "time": 1857,
-    "timeDay": 1694,
-    "timeWeek": 1370,
-    "timeMonth": 1336,
+    "time": 1855,
+    "timeDay": 938,
+    "timeWeek": 1376,
+    "timeMonth": 1339,
     "timeYear": 1928,
     "dailyMinutesDown": {
       "2026-01-20": 31,
@@ -543,8 +541,7 @@
       "2025-02-05": 20,
       "2025-01-31": 682,
       "2025-01-29": 124,
-      "2025-01-24": 52,
-      "2025-01-22": 88
+      "2025-01-24": 52
     }
   },
   {
@@ -558,11 +555,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
-    "time": 1239,
-    "timeDay": 252,
-    "timeWeek": 441,
-    "timeMonth": 758,
-    "timeYear": 1239,
+    "time": 1236,
+    "timeDay": 247,
+    "timeWeek": 403,
+    "timeMonth": 629,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-12-09": 46,
       "2025-10-31": 37,
@@ -599,18 +596,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sistemasdap.ula.ve.ico",
     "slug": "enlace-externo-dap",
     "status": "down",
-    "uptime": "78.10%",
+    "uptime": "78.07%",
     "uptimeDay": "18.74%",
     "uptimeWeek": "21.80%",
     "uptimeMonth": "9.50%",
-    "uptimeYear": "78.10%",
+    "uptimeYear": "78.07%",
     "time": 2002,
     "timeDay": 963,
     "timeWeek": 1518,
     "timeMonth": 1174,
     "timeYear": 2002,
     "dailyMinutesDown": {
-      "2026-01-21": 1044,
+      "2026-01-22": 89,
+      "2026-01-21": 1170,
       "2026-01-20": 1065,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
