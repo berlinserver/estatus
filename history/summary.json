@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 140,
-    "timeDay": 97,
-    "timeWeek": 102,
-    "timeMonth": 112,
+    "timeDay": 135,
+    "timeWeek": 110,
+    "timeMonth": 113,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2026-02-26": 68,
@@ -23,8 +23,7 @@
       "2025-12-16": 18,
       "2025-12-15": 26,
       "2025-12-13": 22,
-      "2025-12-12": 15,
-      "2025-04-29": 17
+      "2025-12-12": 15
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeWeek": "97.88%",
     "uptimeMonth": "89.04%",
     "uptimeYear": "96.76%",
-    "time": 1871,
-    "timeDay": 840,
-    "timeWeek": 986,
-    "timeMonth": 1535,
+    "time": 1870,
+    "timeDay": 1148,
+    "timeWeek": 1033,
+    "timeMonth": 1316,
     "timeYear": 1805,
     "dailyMinutesDown": {
       "2026-04-25": 46,
@@ -146,11 +145,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.21%",
-    "uptimeYear": "92.68%",
-    "time": 1211,
-    "timeDay": 457,
-    "timeWeek": 1055,
-    "timeMonth": 1112,
+    "uptimeYear": "92.70%",
+    "time": 1210,
+    "timeDay": 811,
+    "timeWeek": 1100,
+    "timeMonth": 1087,
     "timeYear": 1236,
     "dailyMinutesDown": {
       "2026-04-17": 61,
@@ -236,8 +235,7 @@
       "2025-05-14": 207,
       "2025-05-08": 364,
       "2025-05-07": 770,
-      "2025-05-06": 138,
-      "2025-04-29": 742
+      "2025-05-06": 138
     }
   },
   {
@@ -246,15 +244,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap",
     "status": "up",
-    "uptime": "94.04%",
+    "uptime": "94.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.35%",
-    "uptimeYear": "92.72%",
+    "uptimeYear": "92.74%",
     "time": 124,
-    "timeDay": 80,
-    "timeWeek": 99,
-    "timeMonth": 98,
+    "timeDay": 96,
+    "timeWeek": 101,
+    "timeMonth": 97,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-17": 61,
@@ -335,8 +333,7 @@
       "2025-05-14": 206,
       "2025-05-08": 364,
       "2025-05-07": 770,
-      "2025-05-06": 137,
-      "2025-04-29": 741
+      "2025-05-06": 137
     }
   },
   {
@@ -345,15 +342,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/190.168.72.22.ico",
     "slug": "sidap-red",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.36%",
-    "uptimeYear": "93.07%",
+    "uptimeYear": "93.09%",
     "time": 234,
-    "timeDay": 160,
-    "timeWeek": 200,
-    "timeMonth": 197,
+    "timeDay": 191,
+    "timeWeek": 202,
+    "timeMonth": 196,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-04-17": 60,
@@ -429,8 +426,7 @@
       "2025-05-21": 293,
       "2025-05-20": 941,
       "2025-05-19": 728,
-      "2025-05-14": 206,
-      "2025-04-29": 741
+      "2025-05-14": 206
     }
   },
   {
@@ -439,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dap.ula.ve.ico",
     "slug": "web-principal-dap",
     "status": "up",
-    "uptime": "91.86%",
+    "uptime": "91.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.81%",
     "uptimeYear": "94.69%",
-    "time": 1960,
-    "timeDay": 1036,
-    "timeWeek": 1248,
-    "timeMonth": 2135,
-    "timeYear": 2007,
+    "time": 1953,
+    "timeDay": 1583,
+    "timeWeek": 1314,
+    "timeMonth": 1999,
+    "timeYear": 2009,
     "dailyMinutesDown": {
       "2026-04-20": 301,
       "2026-04-13": 764,
@@ -517,10 +513,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.72%",
     "uptimeYear": "98.15%",
-    "time": 1187,
-    "timeDay": 486,
-    "timeWeek": 923,
-    "timeMonth": 844,
+    "time": 1186,
+    "timeDay": 698,
+    "timeWeek": 974,
+    "timeMonth": 849,
     "timeYear": 1148,
     "dailyMinutesDown": {
       "2026-04-06": 824,
@@ -560,16 +556,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sistemasdap.ula.ve.ico",
     "slug": "enlace-externo-dap",
     "status": "up",
-    "uptime": "76.60%",
+    "uptime": "76.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.50%",
     "uptimeYear": "78.75%",
-    "time": 2002,
-    "timeDay": 4424,
-    "timeWeek": 2153,
-    "timeMonth": 2026,
-    "timeYear": 2080,
+    "time": 2000,
+    "timeDay": 1259,
+    "timeWeek": 2221,
+    "timeMonth": 1766,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2026-04-13": 765,
       "2026-04-12": 647,
@@ -692,8 +688,7 @@
       "2025-05-08": 363,
       "2025-05-07": 770,
       "2025-05-06": 136,
-      "2025-04-30": 36,
-      "2025-04-29": 121
+      "2025-04-30": 36
     }
   }
 ]
