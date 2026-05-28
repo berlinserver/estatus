@@ -43,7 +43,7 @@
     "timeDay": 925,
     "timeWeek": 873,
     "timeMonth": 1390,
-    "timeYear": 1809,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2025-07-30": 480,
       "2025-08-01": 18,
@@ -147,12 +147,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "87.61%",
-    "uptimeYear": "92.45%",
+    "uptimeYear": "92.47%",
     "time": 1232,
     "timeDay": 823,
     "timeWeek": 1042,
     "timeMonth": 1582,
-    "timeYear": 1260,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2025-05-31": 911,
       "2025-05-30": 102,
@@ -251,7 +251,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.42%",
     "uptimeMonth": "87.66%",
-    "uptimeYear": "92.49%",
+    "uptimeYear": "92.52%",
     "time": 153,
     "timeDay": 500,
     "timeWeek": 523,
@@ -351,8 +351,8 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "87.91%",
-    "uptimeYear": "92.61%",
-    "time": 243,
+    "uptimeYear": "92.64%",
+    "time": 229,
     "timeDay": 220,
     "timeWeek": 202,
     "timeMonth": 199,
@@ -566,9 +566,9 @@
     "url": "http://sistemasdap.ula.ve/",
     "icon": "https://icons.duckduckgo.com/ip3/sistemasdap.ula.ve.ico",
     "slug": "enlace-externo-dap",
-    "status": "up",
-    "uptime": "77.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "77.52%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.15%",
     "uptimeYear": "78.26%",
@@ -698,7 +698,8 @@
       "2026-05-14": 264,
       "2026-05-18": 1298,
       "2026-05-17": 663,
-      "2026-05-19": 1038
+      "2026-05-19": 1038,
+      "2026-05-28": 0
     }
   }
 ]
