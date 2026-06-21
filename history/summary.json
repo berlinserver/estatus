@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 138,
-    "timeDay": 0,
-    "timeWeek": 84,
-    "timeMonth": 76,
+    "time": 139,
+    "timeDay": 124,
+    "timeWeek": 90,
+    "timeMonth": 78,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-12": 15,
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
     "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "96.77%",
+    "uptime": "98.59%",
+    "uptimeDay": "83.83%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "96.73%",
     "time": 1801,
     "timeDay": 0,
     "timeWeek": 1760,
@@ -135,7 +135,7 @@
       "2026-05-19": 1038,
       "2026-06-11": 219,
       "2026-06-15": 243,
-      "2026-06-21": 9
+      "2026-06-21": 233
     }
   },
   {
@@ -144,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap-profesores",
     "status": "down",
-    "uptime": "95.11%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "93.44%",
+    "uptime": "95.09%",
+    "uptimeDay": "83.95%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "93.40%",
     "time": 1324,
     "timeDay": 0,
     "timeWeek": 3046,
@@ -232,7 +232,7 @@
       "2026-05-19": 1038,
       "2026-05-21": 370,
       "2026-06-02": 216,
-      "2026-06-21": 8
+      "2026-06-21": 231
     }
   },
   {
@@ -241,11 +241,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uladap.adm.ula.ve.ico",
     "slug": "sidap",
     "status": "down",
-    "uptime": "95.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "93.48%",
+    "uptime": "94.98%",
+    "uptimeDay": "84.08%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "93.44%",
     "time": 208,
     "timeDay": 0,
     "timeWeek": 1778,
@@ -325,7 +325,7 @@
       "2026-05-19": 1038,
       "2026-05-21": 361,
       "2026-06-02": 214,
-      "2026-06-21": 6
+      "2026-06-21": 229
     }
   },
   {
@@ -425,11 +425,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dap.ula.ve.ico",
     "slug": "web-principal-dap",
     "status": "down",
-    "uptime": "92.39%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "94.56%",
+    "uptime": "92.37%",
+    "uptimeDay": "84.20%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "94.52%",
     "time": 2226,
     "timeDay": 0,
     "timeWeek": 7721,
@@ -489,7 +489,7 @@
       "2026-05-19": 1038,
       "2026-06-02": 204,
       "2026-06-19": 110,
-      "2026-06-21": 4
+      "2026-06-21": 228
     }
   },
   {
@@ -498,11 +498,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dapenlinea.ula.ve.ico",
     "slug": "dap-internacional-eeuu",
     "status": "down",
-    "uptime": "97.79%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.02%",
+    "uptime": "97.75%",
+    "uptimeDay": "84.33%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "97.98%",
     "time": 1196,
     "timeDay": 0,
     "timeWeek": 901,
@@ -532,7 +532,7 @@
       "2026-05-18": 1300,
       "2026-05-17": 665,
       "2026-05-19": 1038,
-      "2026-06-21": 2
+      "2026-06-21": 226
     }
   },
   {
@@ -541,11 +541,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sistemasdap.ula.ve.ico",
     "slug": "enlace-externo-dap",
     "status": "down",
-    "uptime": "77.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.86%",
-    "uptimeYear": "77.56%",
+    "uptime": "77.72%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "77.51%",
     "time": 2043,
     "timeDay": 0,
     "timeWeek": 1273,
@@ -674,7 +674,7 @@
       "2026-05-28": 1091,
       "2026-06-02": 1105,
       "2026-06-01": 1009,
-      "2026-06-21": 0
+      "2026-06-21": 224
     }
   }
 ]
