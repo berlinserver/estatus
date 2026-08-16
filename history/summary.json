@@ -4,19 +4,18 @@
     "url": "http://web.ula.ve/dap/",
     "icon": "https://icons.duckduckgo.com/ip3/web.ula.ve.ico",
     "slug": "dap-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.42%",
     "uptimeMonth": "89.33%",
     "uptimeYear": "95.54%",
-    "time": 1860,
+    "time": 1862,
     "timeDay": 776,
     "timeWeek": 1896,
     "timeMonth": 2446,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2025-09-09": 18,
       "2025-09-16": 35,
       "2025-09-17": 43,
       "2025-09-18": 16,
@@ -110,7 +109,8 @@
       "2026-07-28": 565,
       "2026-08-06": 250,
       "2026-08-08": 410,
-      "2026-08-13": 462
+      "2026-08-13": 462,
+      "2026-08-16": 0
     }
   },
   {
@@ -406,7 +406,7 @@
     "status": "up",
     "uptime": "90.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.21%",
+    "uptimeWeek": "35.18%",
     "uptimeMonth": "79.51%",
     "uptimeYear": "89.98%",
     "time": 2436,
